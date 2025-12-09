@@ -103,7 +103,7 @@ To run a solution, download your personal input from the AoC website and save it
 <summary><strong><a href="2025/">2025</a></strong></summary>
 
 - [Day 1](https://github.com/PascalWetzel/advent-of-code/blob/main/2025/Day1.ipynb)
-- Day 2
+- [Day 2](https://github.com/PascalWetzel/advent-of-code/blob/main/2025/Day2.ipynb)
 - Day 3
 - Day 4
 - Day 5
