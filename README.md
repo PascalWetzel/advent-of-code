@@ -4,7 +4,8 @@ Welcome to my repository for **Advent of Code**!
 This repo contains my personal solutions to the annual programming puzzles created by Eric Wastl.
 
 All solutions are implemented in **Python** and organized by **year** and **day** for clarity and consistency.  
-To run a solution, download your personal input from the AoC website and save it as `Input_dayX.txt` (e.g. `Input_day1.txt`) in the corresponding day's folder.
+To run a solution, download your personal input from the AoC website and save it as `Input_dayX.txt` (e.g. `Input_day1.txt`) in the folder of the corresponding notebook.
+There is also a link at the top of each notebook to open it in Google Colab.
 
 <details open>
 <summary><strong>📑 Table of Contents</strong></summary>
