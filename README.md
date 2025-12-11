@@ -37,13 +37,14 @@ There is also a link at the top of each notebook to open it in Google Colab.
 - Day 22
 - Day 23
 - Day 24
+- Day 25
 
 </details>
 
 <details>
 <summary><strong><a href="2023/">2023</a></strong></summary>
 
-- Day 1
+- [Day 1](https://github.com/PascalWetzel/advent-of-code/blob/main/2023/Day1.ipynb)
 - Day 2
 - Day 3
 - Day 4
@@ -67,6 +68,7 @@ There is also a link at the top of each notebook to open it in Google Colab.
 - Day 22
 - Day 23
 - Day 24
+- Day 25
 
 </details>
 
@@ -97,6 +99,7 @@ There is also a link at the top of each notebook to open it in Google Colab.
 - Day 22
 - Day 23
 - Day 24
+- Day 25
 
 </details>
 
