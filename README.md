@@ -110,7 +110,7 @@ There is also a link at the top of each notebook to open it in Google Colab.
 - [Day 2](https://github.com/PascalWetzel/advent-of-code/blob/main/2025/Day2.ipynb)
 - [Day 3](https://github.com/PascalWetzel/advent-of-code/blob/main/2025/Day3.ipynb)
 - [Day 4](https://github.com/PascalWetzel/advent-of-code/blob/main/2025/Day4.ipynb)
-- Day 5
+- [Day 5](https://github.com/PascalWetzel/advent-of-code/blob/main/2025/Day5.ipynb)
 - Day 6
 - Day 7
 - Day 8
